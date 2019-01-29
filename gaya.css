@@ -1,0 +1,35 @@
+body{	
+
+background-color: black;
+
+
+}
+.kesatu{
+	color: white ;
+	background-color: purple;
+	margin:80px;
+	border:3px black solid;
+	padding:30px;
+}
+
+img{
+
+	height:600px;
+	width: 500px;
+}
+
+button{
+color: white;
+text-align: center;
+height: 50px;
+width: 100px;
+border-radius:20px;
+background-color: purple;
+font-size: 15px;
+font-family: arial;
+
+margin-bottom:20px;
+margin-top:40px;
+margin-left: 100px;
+
+}
